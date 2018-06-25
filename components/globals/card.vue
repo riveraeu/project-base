@@ -9,7 +9,7 @@
         <v-spacer></v-spacer>
       </v-card-title>
       <v-card-text>
-        <div class="body-text mar-left mar-right">{{text}}</div>
+        <div class="">{{text}}</div>
       </v-card-text>
     </v-card>
   </v-flex>
