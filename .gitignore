@@ -1,0 +1,7 @@
+node_modules/
+site design/
+client's content/
+.eslintrc.js
+.env
+npm-debug.log
+package-lock.json
